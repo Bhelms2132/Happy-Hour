@@ -1,4 +1,4 @@
-# Project-One-Proposal
+# Happy-Hour
 Project Happy Hour
 Team Members: Sue, Brian, Wynton, Rebekah, William
 Description: Create a site that allows you to access your choice of cocktail recipe and upload it to your favorites.
