@@ -1,12 +1,8 @@
 # Happy-Hour
-Project Happy Hour
-Team Members: Sue, Brian, Wynton, Rebekah, William
-Description: Create a site that allows you to access your choice of cocktail recipe and upload it to your favorites.
-API: cocktailDB, firebase
-Library:  Bootswatch
-Breakdown: HTML –Sue and Rebekah
-        JS – Wynton and Brian, Sue
-        CSS - Will, Rebekah Sue
+Happy-Hour is mobile responsive application taht allows users to enter in a cocktail or mixed drink of their choosing. The app will then return ingerdents and recipe to create the desired drink. The drinks are pulled from the API cocktailDB and is stored using firebase database. I helped build this project within a team of five, my roll within this project was to implament the API call to cocktailDB also create the database using firebase and link to firebase database.
+
+
+
 ## Start
 
 ![image](https://user-images.githubusercontent.com/52431116/72655016-3e1db780-3960-11ea-9fd9-d403fce38264.png)
