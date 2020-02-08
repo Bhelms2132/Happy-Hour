@@ -8,14 +8,24 @@ Rebekah Mintac - HTML, Bootswatch
 <br>
 Wynton Davis - JavaScript, jQuery
 <br>
-Brian Helms - FireBase DB, CocktailDB API
+Brian Helms - FireBaseDB, CocktailDB API
 
 
 ## Link to Happy-Hour
 https://bhelms2132.github.io/Happy-Hour/
 
 ## Technologies used
-HTML, Bootswatch, firebase database, API cocktailDB, JavaScript, jQuery
+HTML
+<br>
+Bootswatch
+<br>
+FireBaseDB
+<br>
+API cocktailDB
+<br>
+JavaScript
+<br>
+jQuery
 
 ## Start
 
