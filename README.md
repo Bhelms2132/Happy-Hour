@@ -3,8 +3,11 @@ Happy-Hour is mobile responsive application taht allows users to enter in a cock
 
 ## Contributors
 Sue Look -  HTML, Bootswatch
+<br>
 Rebekah Mintac - HTML, Bootswatch
-Wynton Davis - JavaScript
+<br>
+Wynton Davis - JavaScript, jQuery
+<br>
 Brian Helms - FireBase DB, CocktailDB API
 
 
