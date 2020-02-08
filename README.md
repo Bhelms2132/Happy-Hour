@@ -2,7 +2,10 @@
 Happy-Hour is mobile responsive application taht allows users to enter in a cocktail or mixed drink of their choosing. The app will then return ingerdents and recipe to create the desired drink. The drinks are pulled from the API cocktailDB and is stored using firebase database. I helped build this project within a team of five, my roll within this project was to implament the API call to cocktailDB also create the database using firebase and link to firebase database.
 
 ## Contributors
-Sue Look-  HTML, Bootswatch
+Sue Look -  HTML, Bootswatch
+Rebekah Mintac - HTML, Bootswatch
+Wynton Davis - JavaScript
+Brian Helms - FireBase DB, CocktailDB API
 
 
 ## Link to Happy-Hour
